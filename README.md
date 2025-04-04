@@ -5,7 +5,7 @@
 
 **Step 2:** Perform Metric Sequencing : Generates "metric_sequencing.txt". Metric sequencing codes to be open-sourced shortly.
 
-**Step 3:** Train INSIGHT: Architecture and Pre-training Source Code provided in "INSIGHT_Pretraining.py"
+**Step 3:** **Train INSIGHT:** Architecture and Pre-training Source Code provided in "INSIGHT_Pretraining.py"
 
 **Step 4:** Perform LoRA-based parameter-efficient fine-tuning wherever knowledge transfer is desired
 
