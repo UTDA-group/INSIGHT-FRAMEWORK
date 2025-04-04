@@ -1,0 +1,10 @@
+iq_A
+DC_Gain
+IRN_density
+CMRR
+PSRR
+GBW
+Phase_Margin
+Settling_Time
+Slew_Rate
+Rise_Time
